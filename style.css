@@ -1,0 +1,14 @@
+body {
+            background-color: #0f0f0f;
+            color: #0ff;
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+        }
+        h1 {
+            text-shadow: 0 0 10px cyan;
+        }
+        img {
+            width: 80%;
+            border-radius: 10px;
+            box-shadow: 0 0 15px cyan;
+        }
